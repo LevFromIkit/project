@@ -1,0 +1,26 @@
+{
+  "users": [
+      {
+          "id": 1,
+          "login": "test1@example.com",
+          "password": "1",
+          "modules": [
+              {
+                  "name": "Home",
+                  "rights": ["C", "R", "U", "D", "L"]
+              }
+          ]
+      },
+      {
+          "id": 2,
+          "login": "test2@example.com",
+          "password": "1",
+          "modules": [
+              {
+                  "name": "Home",
+                  "rights": ["C", "R", "U", "D", "L"]
+              }
+          ]
+      }
+  ]
+}
